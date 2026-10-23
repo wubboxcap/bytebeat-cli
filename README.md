@@ -32,7 +32,8 @@ The JavaScript engine is QuickJS by Fabrice Bellard and Charlie Gordon. Its
 bundled source files and license are documented in
 [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md).
 
-The GUI layout was inspired by SthephanShi's [dollchan.net](https://dollchan.net/bytebeat).
+The GUI layout was inspired by SthephanShi's
+[dollchan.net](https://dollchan.net/bytebeat).
 
 ## License
 
